@@ -1,0 +1,2 @@
+echo cpuEndian
+echo hostCPU
